@@ -12,11 +12,8 @@ A simple, beginner-friendly menu-driven calculator written in C.
 Enter two numbers: 10 5
 
 Addition = 15.00
-
 Subtraction = 5.00
-
 Multiplication = 50.00
-
 Division = 2.00
 
 ## How to Run
