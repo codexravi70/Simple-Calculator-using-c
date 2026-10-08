@@ -19,11 +19,12 @@ Multiplication = 50.00
 
 Division = 2.00
 
+## Screen Shot 
+![image alt](https://github.com/codexravi70/Simple-Calculator-using-c/blob/cd2c241d398e3ec5f35f3109cedf66fcdf7a1b21/Screenshot_20261008_213518_Termux.jpg)
+
 ## How to Run
 ```bash
 git clone https://github.com/codexravi70/Simple-Calculator-using-c.git
 cd Simple-Calculator-using-c
 gcc calculator.c -o calculator
-./calculator exit
-
-![image alt](https://github.com/codexravi70/Simple-Calculator-using-c/blob/cd2c241d398e3ec5f35f3109cedf66fcdf7a1b21/Screenshot_20261008_213518_Termux.jpg)
+./calculator
