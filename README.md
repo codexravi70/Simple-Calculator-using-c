@@ -26,3 +26,4 @@ cd Simple-Calculator-using-c
 gcc calculator.c -o calculator
 ./calculator
 
+![image alt](image_url)
