@@ -24,6 +24,6 @@ Division = 2.00
 git clone https://github.com/codexravi70/Simple-Calculator-using-c.git
 cd Simple-Calculator-using-c
 gcc calculator.c -o calculator
-./calculator
+./calculator exit
 
-![image alt](image_url)
+![image alt](https://github.com/codexravi70/Simple-Calculator-using-c/blob/cd2c241d398e3ec5f35f3109cedf66fcdf7a1b21/Screenshot_20261008_213518_Termux.jpg)
